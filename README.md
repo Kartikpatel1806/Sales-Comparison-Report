@@ -114,34 +114,6 @@ To generate a PDF of the report:
 
 ## 🌐 Deployment
 
-### Deploy to Vercel
-
-1. **Install Vercel CLI** (optional, or use web interface)
-   ```bash
-   npm install -g vercel
-   ```
-
-2. **Login to Vercel**
-   ```bash
-   vercel login
-   ```
-
-3. **Deploy**
-   ```bash
-   vercel
-   ```
-   Follow the prompts. Vercel will automatically detect Vite and configure the build.
-
-   **OR use the web interface:**
-   - Go to [vercel.com](https://vercel.com)
-   - Sign up/Login with GitHub
-   - Click "New Project"
-   - Import your repository
-   - Vercel will auto-detect settings
-   - Click "Deploy"
-
-4. **Your app will be live** at a URL like `your-project.vercel.app`
-
 ### Deploy to Netlify
 
 1. **Install Netlify CLI** (optional, or use web interface)
